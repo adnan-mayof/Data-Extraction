@@ -1,5 +1,7 @@
 # Step 11 — Data Extraction
 
+[← Previous Step: Full-Text Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)
+
 Maya has completed the risk-of-bias assessment.
 
 After applying the rule specified in her protocol, **111 studies are available for the primary synthesis**.
