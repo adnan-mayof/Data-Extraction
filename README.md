@@ -1,4 +1,4 @@
-# Step 11 — Data Extraction
+# Step 10 — Data Extraction
 
 [← Previous Step: Full-Text Screening](https://github.com/adnan-mayof/Title-and-Abstract-Screening/blob/main/README.md)
 
