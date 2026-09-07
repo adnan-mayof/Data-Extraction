@@ -1,6 +1,6 @@
 # Step 10 — Data Extraction
 
-[← Previous Step: Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/edit/main/README.md)
+[← Previous Step: Full-Text Screening](https://github.com/adnan-mayof/Full-Text-Screening/blob/main/README.md)
 
 Maya has completed the risk-of-bias assessment.
 
