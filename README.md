@@ -801,4 +801,4 @@ She is now ready to move to:
 
 ### Next Step
 
-### **[Step 9 — Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
+### **[Step 11 — Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
