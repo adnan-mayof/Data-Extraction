@@ -791,3 +791,14 @@ step-11-data-extraction/
 └── assessment/
     └── assessment.md
 ```
+
+## 🚀 Maya's Journey Continues
+
+Maya has now **completed the Data Extraction Stage**.
+The next challenge is to conduct the Risk-of-Bias Assessment.
+
+She is now ready to move to:
+
+### Next Step
+
+### **[Step 9 — Risk-of-Bias Assessment](https://github.com/adnan-mayof/Risk-of-Bias-Assessment/blob/main/README.md)**
